@@ -15,4 +15,4 @@ Figuring it out as I go, don't @ me.
 ## 🛠️ Projects
 *Coming soon. I promise.*
 
-## 🌎 Austin, TX — working remotely
+## 🌎 Austin, TX — Here & There — Remote 
