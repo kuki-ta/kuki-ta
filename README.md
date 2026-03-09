@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Julia 👋
 
-<!--
-**kuki-ta/kuki-ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ops person by day, currently trying to convince myself I'm also a coder...by day and night.
+Learning SQL, R, and Python. Building a Bluesky bot. 
+Figuring it out as I go, don't @ me.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- SQL
+- R
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Find me on Codecademy
+[codecademy.com/profiles/Kuki-Ta](https://www.codecademy.com/profiles/Kuki-Ta)
+
+## 🛠️ Projects
+*Coming soon. I promise.*
+
+## 🌎 Austin, TX — working remotely
