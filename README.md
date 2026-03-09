@@ -1,6 +1,6 @@
-# Hey, I'm Julia 👋
+# Hi there! Hello! 👋
 
-Ops person by day, currently trying to convince myself I'm also a coder...by day and night.
+Ops geek by day, currently trying to convince myself I'm also a coder...by day and night.
 Learning SQL, R, and Python. Building a Bluesky bot. 
 Figuring it out as I go, don't @ me.
 
