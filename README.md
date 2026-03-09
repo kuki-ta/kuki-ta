@@ -9,7 +9,7 @@ Figuring it out as I go, don't @ me.
 - R
 - Python
 
-## 📚 Find me on CodeAcademy
+## 📚 Find me on Codeacademy
 [codecademy.com/profiles/Kuki-Ta](https://www.codecademy.com/profiles/Kuki-Ta)
 
 ## 🛠️ Projects
