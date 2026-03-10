@@ -14,6 +14,7 @@ Figuring it out as I go, don't @ me.
 ## 🛠️ Projects
 
 March 2026
+
 [Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker)
 
 ## 🌎 Austin, TX - Here & There - Remote
