@@ -12,6 +12,8 @@ Figuring it out as I go, don't @ me.
 [codecademy.com/profiles/Kuki-Ta](https://www.codecademy.com/profiles/Kuki-Ta)
 
 ## 🛠️ Projects
-*Coming soon.*
+
+March 2026
+[Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker)
 
 ## 🌎 Austin, TX - Here & There - Remote
