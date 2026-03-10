@@ -12,6 +12,6 @@ Figuring it out as I go, don't @ me.
 [codecademy.com/profiles/Kuki-Ta](https://www.codecademy.com/profiles/Kuki-Ta)
 
 ## 🛠️ Projects
-*Coming soon. I promise.*
+*Coming soon.*
 
 ## 🌎 Austin, TX - Here & There - Remote
