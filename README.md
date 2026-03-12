@@ -17,9 +17,9 @@ March 2026
 
 [Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker)
 
-## 🌎 Austin, TX - Here & There - Remote
+## 🌎 Austin, TX / New York, NY
 
-Bit of a rough move cross country but Austin's a great city and my rock gym's around the corner 😁
+Austin for now. A great city and my rock gym's around the corner 😁
 
 ```
 ▗▄▄▄▖▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖    ▗▄▄▄▖ ▗▄▄▖     ▗▄▄▖ ▗▄▖ ▗▖  ▗▖▗▖  ▗▖ ▗▄▖     ▗▄▄▄▖▗▄▖ ▗▖ ▗▖▗▄▄▄▖     ▗▄▖     ▗▖ ▗▖▗▖ ▗▖▗▄▄▄▖▗▖   ▗▄▄▄▖
