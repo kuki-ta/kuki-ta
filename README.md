@@ -19,12 +19,12 @@ Figuring it out as I go, don't @ me.
 ```
 ## 🛠️ Projects
 
-March 2026
+**March 2026**
 
-**PMDD Research Explorer** - coming soon.
+PMDD Research Explorer - coming soon.
 
 [Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker) 
-A little SQL practice/showcase. But also I'm a collector and I had to make it fun...for myself.
+- A little SQL practice/showcase. But also I'm a collector and I had to make it fun...for myself.
 
 ## 🌎 Austin, TX / New York, NY
 
