@@ -21,7 +21,7 @@ Figuring it out as I go, don't @ me.
 
 **March 2026**
 
-A women's health community - coming soon.
+A research community and forum - coming soon.
 
 [Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker) 
 - A little SQL practice/showcase. But also I'm a collector and I had to make it fun...for myself.
