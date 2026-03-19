@@ -21,7 +21,7 @@ Figuring it out as I go, don't @ me.
 
 **WIP AI-native passion project**
 
-Research community and forum - not yet public. Excited to demo!
+Research community and forum - not yet public. Happy to demo if any interest!
 
 **March 2026**
 
