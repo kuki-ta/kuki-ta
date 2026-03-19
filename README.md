@@ -19,9 +19,11 @@ Figuring it out as I go, don't @ me.
 ```
 ## 🛠️ Projects
 
-**March 2026**
+**WIP AI-native passion project**
 
-A research community and forum - coming soon.
+Research community and forum - not yet public. Excited to demo!
+
+**March 2026**
 
 [Comic Collection Tracker](https://github.com/kuki-ta/comic-collection-tracker) 
 - A little SQL practice/showcase. But also I'm a collector and I had to make it fun...for myself.
